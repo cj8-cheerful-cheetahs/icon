@@ -1,0 +1,5 @@
+https://unsplash.com/photos/5ys9_mUu-l0
+https://unsplash.com/license
+
+https://github.com/python-discord/branding/blob/main/jams/summer_code_jam_2021/logo.png
+CC-BY-NC-SA
